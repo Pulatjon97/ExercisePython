@@ -10,7 +10,7 @@ git init
 
 git status
 git add .
-git commit -m ""feat: Initial Setup
+git commit -m "feat: Initial Setup"
 
 git remote add origin https://github_adress
 git push origin main
