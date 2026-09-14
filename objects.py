@@ -25,3 +25,5 @@ print("result1: ", result1)
 
 result2 = math.ceil(98.7)
 print("result2: ", result2)
+
+
